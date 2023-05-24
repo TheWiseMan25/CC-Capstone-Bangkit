@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cc-capstone-ps266",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWiseMan25/CC-Capstone-Bangkit.git"
+  },
+  "author": "Gilang Setyawan Yoga Pratama and Nabil Mafaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheWiseMan25/CC-Capstone-Bangkit/issues"
+  },
+  "homepage": "https://github.com/TheWiseMan25/CC-Capstone-Bangkit#readme"
+}
